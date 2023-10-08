@@ -1,0 +1,38 @@
+{
+  "data": {
+    "Get": {
+      "WikiCity": [
+        {
+          "city_name": "Indianapolis",
+          "country": "United States",
+          "lat": 39.7771,
+          "lng": -86.1458
+        },
+        {
+          "city_name": "Indore",
+          "country": "India",
+          "lat": 22.7206,
+          "lng": 75.8472
+        },
+        {
+          "city_name": "Mumbai",
+          "country": "India",
+          "lat": 19.0758,
+          "lng": 72.8775
+        },
+        {
+          "city_name": "N\u0101gpur",
+          "country": "India",
+          "lat": 21.1539,
+          "lng": 79.0831
+        },
+        {
+          "city_name": "Jaipur",
+          "country": "India",
+          "lat": 26.9167,
+          "lng": 75.8667
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "Get": {
+      "WikiCity": [
+        {
+          "city_name": "Paris",
+          "country": "France",
+          "lat": 48.8566,
+          "lng": 2.3522
+        },
+        {
+          "city_name": "London",
+          "country": "United Kingdom",
+          "lat": 51.5072,
+          "lng": -0.1275
+        },
+        {
+          "city_name": "Madrid",
+          "country": "Spain",
+          "lat": 40.4167,
+          "lng": -3.7167
+        },
+        {
+          "city_name": "Berlin",
+          "country": "Germany",
+          "lat": 52.5167,
+          "lng": 13.3833
+        },
+        {
+          "city_name": "Budapest",
+          "country": "Hungary",
+          "lat": 47.4983,
+          "lng": 19.0408
+        }
+      ]
+    }
+  }
+}
