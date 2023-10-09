@@ -1,0 +1,18 @@
+{
+  "data": {
+    "Get": {
+      "WikiCity": [
+        {
+          "_additional": {
+            "answer": {
+              "hasAnswer": false,
+              "property": null,
+              "result": null
+            }
+          },
+          "city_name": "Hyder\u0101b\u0101d"
+        }
+      ]
+    }
+  }
+}
