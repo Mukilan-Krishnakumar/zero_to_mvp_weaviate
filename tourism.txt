@@ -1,0 +1,16 @@
+{
+  "generate": {
+    "error": null,
+    "singleResult": "Did you know that Ho Chi Minh City, formerly known as Saigon, is the largest city in Vietnam with a population of around 9 million? It's also a major centre for finance, media, technology, education, and transportation, generating nearly a quarter of the country's total GDP. #HCMC #Vietnam"
+  }
+}{
+  "generate": {
+    "error": null,
+    "singleResult": "Did you know that Bangkok, the capital of Thailand, is home to over 10 million people, making up 15.3% of the country's population? With over 14 million people living in the surrounding Bangkok Metropolitan Region, it's no wonder that Bangkok is considered an extreme primate city in terms of size and importance to the national economy. #BangkokFacts"
+  }
+}{
+  "generate": {
+    "error": null,
+    "singleResult": "Did you know that Singapore has the second-highest GDP per capita in the world and is the only country in Asia with a AAA sovereign credit rating? \ud83c\udf1f This small island nation has rapidly developed into a major global hub for trade, finance, and shipping. \ud83d\udea2\ud83c\udf0d #SingaporeFacts"
+  }
+}
